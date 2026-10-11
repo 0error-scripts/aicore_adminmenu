@@ -4,6 +4,9 @@
 
 Commands and a menu to provide tools to admins
 
+> 💬 **Need help or want to support Aicore?** Join our Discord: [https://discord.gg/xfQFcWjak](https://discord.gg/xfQFcWjak)
+
+
 ## Features
 
 - Player reports
